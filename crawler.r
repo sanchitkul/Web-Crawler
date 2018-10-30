@@ -72,7 +72,7 @@ htmlToText <- function(input) {
 ###Load the first element in the frontier to an "exploredlink" variable
 
 
-frontier <- c("http://www.kdnuggets.com")
+frontier <- c("http://www.kdnuggets.com","http://www.cnn.com")
 
 topicwords<-c("technology","school","web","mining","news")
 
